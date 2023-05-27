@@ -1,7 +1,7 @@
 <h1 align="center">Hi, guys! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my Github page !</b><br><br>
+    <b>Welcome to my GitHub page !</b><br><br>
     <i>
         I'm Amine Chalandi, a passionate engineer with a deep enthusiasm for embedded systems and low-level software development.<br>
         I have a keen interest in implementing low-level software and OSEK RTOS from scratch for various microcontrollers, SoCs and CPU architectures.<br>
@@ -11,16 +11,17 @@
     </a>
 </p>
 
+<h1 align="center"></h1>
 <p align="center">
-  <a href="https://github.com/Chalandi">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chalandi&theme=dark" />
-  </a>
   <a href="https://github.com/Chalandi">
     <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Chalandi&theme=dark" />
   </a>
   <a href="https://github.com/Chalandi">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=Chalandi&count_private=true&show_icons=true&custom_title=Chalandi'%20Github%20Status&hide=issues&theme=vision-friendly-dark" />
    </a>  
+  <a href="https://github.com/Chalandi">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chalandi&theme=dark" />
+  </a>    
 </p>
 
 
