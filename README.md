@@ -11,14 +11,9 @@
 <h1 align="center"></h1>
 <p align="center">
   <a href="https://github.com/Chalandi">
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Chalandi&theme=dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chalandi&theme=dark" width="65%"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chalandi&theme=dark" width="32%"/>
   </a>
-  <a href="https://github.com/Chalandi">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Chalandi&count_private=true&show_icons=true&custom_title=Chalandi'%20Github%20Status&hide=issues&theme=vision-friendly-dark" />
-   </a>  
-  <a href="https://github.com/Chalandi">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chalandi&theme=dark" />
-  </a>    
 </p>
 
 
@@ -32,5 +27,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chalandi&repo=OSEK)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 -->
-
