@@ -4,7 +4,7 @@
     <b>Welcome to my GitHub page !</b><br><br>
     <i>
         I'm Amine Chalandi, a passionate engineer with a deep enthusiasm for embedded systems and low-level software development.<br>
-        I have a keen interest in implementing low-level software and OSEK RTOS from scratch for various microcontrollers, SoCs and CPU architectures.<br>
+        I have a keen interest in bare-metal programming, low-level software development and implementing OSEK RTOS from scratch for various microcontrollers, SoCs and CPU architectures.<br>
     </i><br>
 </p>
 
