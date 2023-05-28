@@ -11,8 +11,8 @@
 <h1 align="center"></h1>
 <p align="center">
   <a href="https://github.com/Chalandi">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chalandi&theme=default" width="65%"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chalandi&theme=default" width="32%"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chalandi&theme=graywhite" width="65%"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chalandi&theme=graywhite" width="32%"/>
   </a>
 </p>
 
