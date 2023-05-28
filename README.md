@@ -6,9 +6,6 @@
         I'm Amine Chalandi, a passionate engineer with a deep enthusiasm for embedded systems and low-level software development.<br>
         I have a keen interest in implementing low-level software and OSEK RTOS from scratch for various microcontrollers, SoCs and CPU architectures.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/chalandi/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
 </p>
 
 <h1 align="center"></h1>
