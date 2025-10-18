@@ -43,6 +43,12 @@
       <td align="left">PocketBeagle2</td>
     </tr>
     <tr>
+      <td align="left"><a href="https://github.com/Embedded-System-Lovers/WCH_V307_RISC-V">Baremetal_WCH_V307_RISC-V</a></td>
+      <td align="left">RISC-V (RV32IMACF)</td>
+      <td align="left">MCU CH32V307VCT6</td>
+      <td align="left">CH32V307V-EVT-R1</td>
+    </tr>      
+    <tr>
       <td align="left"><a href="https://github.com/Chalandi/OSEK_RISC-V_SiFive_FE310_SoC">OSEK_RISC-V_SiFive_FE310_SoC</a></td>
       <td align="left">RISC-V (RV32IMAC)</td>
       <td align="left">SiFive RISC-V FE310</td>
