@@ -15,7 +15,9 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chalandi&theme=graywhite" width="32%"/>
   </a>
 </p>
-<h1 align="center"></h1>
+
+<h1 align="left"></h1>
+<h2 align="left">Bare-Metal Projects (No SDK)</h2>
 <div align="center">
 
 <table align="center">
@@ -92,6 +94,11 @@
 </table>
 
 </div>
+
+<h2 align="left">DIY Tools from scratch</h2>
+
+- ### [ELF-Parser](https://github.com/Chalandi/ELF-Parser)
+- ### [Disassembler for Renesas RH850](https://github.com/Chalandi/Disassembler)
 
 <!--
 
