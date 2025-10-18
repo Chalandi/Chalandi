@@ -45,7 +45,7 @@
     <tr>
       <td align="left"><a href="https://github.com/Embedded-System-Lovers/WCH_V307_RISC-V">Baremetal_WCH_V307_RISC-V</a></td>
       <td align="left">RISC-V (RV32IMACF)</td>
-      <td align="left">MCU CH32V307VCT6</td>
+      <td align="left">CH32V307VCT6</td>
       <td align="left">CH32V307V-EVT-R1</td>
     </tr>      
     <tr>
