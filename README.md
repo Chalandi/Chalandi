@@ -31,6 +31,12 @@
   </thead>
   <tbody>
     <tr>
+      <td align="left"><a href="https://github.com/Chalandi/Baremetal_BL602_SiFive_E24_RISC-V">Baremetal_BL602_SiFive_E24_RISC-V_nosdk</a></td>
+      <td align="left">RISC-V SiFive E24</td>
+      <td align="left">BL602</td>
+      <td align="left">Pinecone BL602</td>
+    </tr>
+    <tr>
       <td align="left"><a href="https://github.com/Chalandi/Baremetal_nxp_mpc5643l_dual_core_ppc_nosdk">Baremetal_nxp_mpc5643l_dual_core_ppc_nosdk</a></td>
       <td align="left">PowerPC e200z4</td>
       <td align="left">NXP MPC5643L</td>
