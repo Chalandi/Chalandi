@@ -32,7 +32,7 @@
   <tbody>
     <tr>
       <td align="left"><a href="https://github.com/Chalandi/Baremetal_BL602_SiFive_E24_RISC-V">Baremetal_BL602_SiFive_E24_RISC-V_nosdk</a></td>
-      <td align="left">RISC-V SiFive E24</td>
+      <td align="left">RISC-V (SiFive E24)</td>
       <td align="left">BL602</td>
       <td align="left">Pinecone BL602</td>
     </tr>
