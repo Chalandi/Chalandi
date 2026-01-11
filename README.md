@@ -8,19 +8,9 @@
     </i><br>
 </p>
 
-<h1 align="center"></h1>
-<p align="center">
-  <a href="https://github.com/Chalandi">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chalandi&theme=graywhite" width="65%"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chalandi&theme=graywhite" width="32%"/>
-  </a>
-</p>
+<h2 align="left">Bare-Metal Projects (No SDK used Built from Scratch)</h2>
 
-<h1 align="left"></h1>
-<h2 align="left">Bare-Metal Projects (No SDK)</h2>
-<div align="center">
-
-<table align="center">
+<table width="100%">
   <thead>
     <tr>
       <th align="left">Project</th>
@@ -53,7 +43,7 @@
       <td align="left">RISC-V (RV32IMACF)</td>
       <td align="left">CH32V307VCT6</td>
       <td align="left">CH32V307V-EVT-R1</td>
-    </tr>      
+    </tr>
     <tr>
       <td align="left"><a href="https://github.com/Chalandi/OSEK_RISC-V_SiFive_FE310_SoC">OSEK_RISC-V_SiFive_FE310_SoC</a></td>
       <td align="left">RISC-V (RV32IMAC)</td>
@@ -105,22 +95,46 @@
   </tbody>
 </table>
 
-</div>
+<h2 align="left">RTOS Projects (OSEK-compliant developed from scratch)</h2>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">CPU</th>
+      <th align="left">SoC</th>
+      <th align="left">Dev Board</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left"><a href="https://github.com/Chalandi/OSEK">OSEK_Cortex-M3</a></td>
+      <td align="left">ARM Cortex-M3</td>
+      <td align="left">STM32F100RB</td>
+      <td align="left">STM32VLDISCOVERY</td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/Chalandi/OSEK_RISC-V_SiFive_FE310_SoC">OSEK_RISC-V_SiFive_FE310_SoC</a></td>
+      <td align="left">RISC-V (RV32IMAC)</td>
+      <td align="left">SiFive RISC-V FE310</td>
+      <td align="left">RED-V Thing Plus</td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/Chalandi/OSEK-NUCLEO-F446RE">OSEK-NUCLEO-F446RE</a></td>
+      <td align="left">ARM Cortex-M4</td>
+      <td align="left">STM32F446RE</td>
+      <td align="left">NUCLEO-F446RE</td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/Chalandi/OSEK_Raspberry_Pi_Zero">OSEK_Raspberry_Pi_Zero</a></td>
+      <td align="left">ARM1176JZF-S</td>
+      <td align="left">BCM2835</td>
+      <td align="left">Raspberry Pi Zero</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 align="left">DIY Tools from scratch</h2>
 
 - ### [ELF-Parser](https://github.com/Chalandi/ELF-Parser)
 - ### [Disassembler for Renesas RH850](https://github.com/Chalandi/Disassembler)
-
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Chalandi&repo=OSEK)](https://github.com/MrKrishnaAgarwal/readme-components-github)
--->
