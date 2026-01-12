@@ -10,14 +10,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/Chalandi?style=flat&label=Total%20Stars&color=gold" alt="Total Stars">
-  
   <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2FChalandi.json&color=blue" alt="Total Contributions">
-  
-  <img src="https://img.shields.io/badge/Repositories-27-blueviolet?style=flat" alt="Total Repositories">
-  
+  <img src="https://img.shields.io/badge/dynamic/json?label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FChalandi&color=blueviolet" alt="Total Repositories"> 
   <img src="https://komarev.com/ghpvc/?username=Chalandi&label=Profile%20Views&color=brightgreen&style=flat&base=3514" alt="Profile Views">
 </p>
-
 
 <h2 align="left">Bare-Metal Projects (No SDK used Built from Scratch)</h2>
 
