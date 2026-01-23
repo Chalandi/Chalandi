@@ -28,6 +28,12 @@
   </thead>
   <tbody>
     <tr>
+      <td align="left"><a href="https://github.com/Chalandi/Baremetal_Arduino_UNO_R4_Minima">Baremetal_Arduino_UNO_R4_Minima</a></td>
+      <td align="left">ARM Cortex-M4</td>
+      <td align="left">Renesas R7FA4M1AB</td>
+      <td align="left">Arduino UNO R4 Minima</td>
+    </tr>      
+    <tr>
       <td align="left"><a href="https://github.com/Chalandi/Baremetal_BL602_SiFive_E24_RISC-V">Baremetal_BL602_SiFive_E24_RISC-V_nosdk</a></td>
       <td align="left">RISC-V (SiFive E24)</td>
       <td align="left">BL602</td>
