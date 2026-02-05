@@ -28,6 +28,12 @@
   </thead>
   <tbody>
     <tr>
+      <td align="left"><a href="https://github.com/Chalandi/Baremetal_esp32p4_nosdk.git">Baremetal_esp32p4_nosdk</a></td>
+      <td align="left">RISC-V</td>
+      <td align="left">ESP32-P4</td>
+      <td align="left">ESP32-P4 Pico</td>
+    </tr>      
+    <tr>
       <td align="left"><a href="https://github.com/Chalandi/Baremetal_Arduino_UNO_R4_Minima">Baremetal_Arduino_UNO_R4_Minima</a></td>
       <td align="left">ARM Cortex-M4</td>
       <td align="left">Renesas R7FA4M1AB</td>
