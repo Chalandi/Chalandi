@@ -28,6 +28,12 @@
   </thead>
   <tbody>
     <tr>
+      <td align="left"><a href="https://github.com/Chalandi/Baremetal_Milk-V_Duo_Dual_RV64_Cores_NoSDK">Baremetal_Milk-V_Duo_nosdk</a></td>
+      <td align="left">RISC-V 64-bit</td>
+      <td align="left">CV1800B</td>
+      <td align="left">Milk-V Duo</td>
+    </tr>      
+    <tr>
       <td align="left"><a href="https://github.com/Chalandi/Baremetal_esp32p4_nosdk.git">Baremetal_esp32p4_nosdk</a></td>
       <td align="left">RISC-V</td>
       <td align="left">ESP32-P4</td>
