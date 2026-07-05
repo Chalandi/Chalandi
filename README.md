@@ -145,11 +145,17 @@
       <td align="left">RED-V Thing Plus</td>
     </tr>
     <tr>
+      <td align="left"><a href="https://github.com/Chalandi/Blinky_Pico2_dual_core_nosdk/tree/osek_multicore_implementation/Code/OSEK">Multicore_OSEK_RP2350</a></td>
+      <td align="left">ARM Cortex-M33</td>
+      <td align="left">RP2350</td>
+      <td align="left">Raspberry Pi Pico2</td>
+    </tr>       
+    <tr>
       <td align="left"><a href="https://github.com/Chalandi/Baremetal_esp32s3_nosdk/tree/osek_multicore_xtensa_lx7/Code/OSEK">Multicore_OSEK_Xtensa</a></td>
       <td align="left">Xtensa LX7</td>
       <td align="left">ESP32-S3</td>
       <td align="left">ESP32-S3-DevKitC-1-N8R8</td>
-    </tr>      
+    </tr>    
     <tr>
       <td align="left"><a href="https://github.com/Chalandi/OSEK-NUCLEO-F446RE">OSEK-NUCLEO-F446RE</a></td>
       <td align="left">ARM Cortex-M4</td>
