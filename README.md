@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=Chalandi&label=Profile%20Views&color=brightgreen&style=flat&base=3514" alt="Profile Views">
 </p>
 
-<h2 align="left">Bare-Metal Projects (No SDK used Built from Scratch)</h2>
+<h2 align="left">Bare-Metal Projects Built from Scratch (No SDK)</h2>
 
 <table width="100%">
   <thead>
@@ -120,7 +120,7 @@
   </tbody>
 </table>
 
-<h2 align="left">RTOS Projects (OSEK-compliant developed from scratch)</h2>
+<h2 align="left">RTOS Projects: OSEK-Compliant and Developed from Scratch</h2>
 
 <table width="100%">
   <thead>
@@ -171,7 +171,7 @@
   </tbody>
 </table>
 
-<h2 align="left">DIY Tools from scratch</h2>
+<h2 align="left">Tools Built from Scratch</h2>
 
-- ### [ELF-Parser](https://github.com/Chalandi/ELF-Parser)
+- ### [ELF Parser](https://github.com/Chalandi/ELF-Parser)
 - ### [Disassembler for Renesas RH850](https://github.com/Chalandi/Disassembler)
