@@ -173,5 +173,5 @@
 
 <h2 align="left">Tools Built from Scratch</h2>
 
-- ### [ELF Parser](https://github.com/Chalandi/ELF-Parser)
-- ### [Disassembler for Renesas RH850](https://github.com/Chalandi/Disassembler)
+* **[ELF Parser](https://github.com/Chalandi/ELF-Parser)**
+* **[Renesas RH850 Disassembler](https://github.com/Chalandi/Disassembler)**
