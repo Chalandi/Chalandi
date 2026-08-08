@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/chalandi?style=flat&label=Total%20Stars&color=gold" alt="Total Stars">
 <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Contributions&query=%24.totalContributions&url=https%3A%2F%2Fraw.githubusercontent.com%2FChalandi%2FChalandi%2Fmain%2Fcontributions.json&color=blue&cacheSeconds=3600&v=1" alt="Total Contributions">   
-  <img src="https://img.shields.io/badge/dynamic/json?label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FChalandi&color=blueviolet&cacheSeconds=86400" alt="Total Repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Repositories&query=%24.public_repos&url=https%3A%2F%2Fraw.githubusercontent.com%2FChalandi%2FChalandi%2Fmain%2Frepos.json&color=blueviolet&cacheSeconds=3600&v=2" alt="Total Repositories">
   <img src="https://komarev.com/ghpvc/?username=Chalandi&label=Profile%20Views&color=brightgreen&style=flat&base=3514" alt="Profile Views">
 </p>  
 
