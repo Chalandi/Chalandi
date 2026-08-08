@@ -1,10 +1,8 @@
 name: Update Contributions
-
 on:
   schedule:
     - cron: '0 0 * * *'   # daily at midnight UTC
   workflow_dispatch:        # lets you trigger it manually too
-
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -20,10 +18,18 @@ jobs:
           TOTAL=$(echo $RESPONSE | jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
           echo "{\"totalContributions\": $TOTAL}" > contributions.json
 
+      - name: Fetch repo count
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          RESPONSE=$(curl -s -H "Authorization: bearer $GH_TOKEN" https://api.github.com/users/Chalandi)
+          PUBLIC=$(echo $RESPONSE | jq '.public_repos')
+          echo "{\"public_repos\": $PUBLIC}" > repos.json
+
       - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add contributions.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update contribution count"
+          git add contributions.json repos.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update contribution count and repo count"
           git push
