@@ -31,6 +31,12 @@
   </thead>
   <tbody>
     <tr>
+      <td align="left"><a href="https://github.com/Chalandi/Baremetal_v850es_nosdk">Baremetal_v850es_nosdk</a></td>
+      <td align="left">V850ES/JG3-L</td>
+      <td align="left">μPD70F3793</td>
+      <td align="left">V850ES/Jx3-L Starter Kit</td>
+    </tr>         
+    <tr>
       <td align="left"><a href="https://github.com/Chalandi/Baremetal_Milk-V_Duo_Dual_RV64_Cores_NoSDK">Baremetal_Milk-V_Duo_nosdk</a></td>
       <td align="left">RISC-V 64-bit</td>
       <td align="left">CV1800B</td>
