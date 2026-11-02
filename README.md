@@ -30,6 +30,12 @@
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td align="left"><a href="https://github.com/Chalandi/Baremetal_RH850_nosdk">Baremetal_RH850_nosdk</a></td>
+      <td align="left">RH850/F1L (RH850G3K)</td>
+      <td align="left">R7F7010352</td>
+      <td align="left">RH850/F1x StarterKit</td>
+    </tr>       
     <tr>
       <td align="left"><a href="https://github.com/Chalandi/Baremetal_v850es_nosdk">Baremetal_v850es_nosdk</a></td>
       <td align="left">V850ES/JG3-L</td>
