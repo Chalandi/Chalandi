@@ -135,7 +135,7 @@
   </tbody>
 </table>
 
-<h2 align="left">RTOS Projects: OSEK-Compliant and Developed from Scratch</h2>
+<h2 align="left">Custom OSEK RTOS Implementation</h2>
 
 <table width="100%">
   <thead>
