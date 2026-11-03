@@ -29,19 +29,7 @@
       <th align="left">Dev Board</th>
     </tr>
   </thead>
-  <tbody>
-     <tr>
-      <td align="left"><a href="https://github.com/Chalandi/Baremetal_RH850_nosdk">Baremetal_RH850_nosdk</a></td>
-      <td align="left">RH850/F1L (RH850G3K)</td>
-      <td align="left">R7F7010352</td>
-      <td align="left">RH850/F1x StarterKit</td>
-    </tr>       
-    <tr>
-      <td align="left"><a href="https://github.com/Chalandi/Baremetal_v850es_nosdk">Baremetal_v850es_nosdk</a></td>
-      <td align="left">V850ES/JG3-L</td>
-      <td align="left">μPD70F3793</td>
-      <td align="left">V850ES/Jx3-L Starter Kit</td>
-    </tr>         
+  <tbody>     
     <tr>
       <td align="left"><a href="https://github.com/Chalandi/Baremetal_Milk-V_Duo_Dual_RV64_Cores_NoSDK">Baremetal_Milk-V_Duo_nosdk</a></td>
       <td align="left">RISC-V 64-bit</td>
@@ -132,6 +120,18 @@
       <td align="left">STM32F746ZGT6</td>
       <td align="left">NUCLEO-144-F746</td>
     </tr>
+     <tr>
+      <td align="left"><a href="https://github.com/Chalandi/Baremetal_RH850_nosdk">Baremetal_RH850_nosdk</a></td>
+      <td align="left">RH850/F1L (RH850G3K)</td>
+      <td align="left">R7F7010352</td>
+      <td align="left">RH850/F1x StarterKit</td>
+    </tr>       
+    <tr>
+      <td align="left"><a href="https://github.com/Chalandi/Baremetal_v850es_nosdk">Baremetal_v850es_nosdk</a></td>
+      <td align="left">V850ES/JG3-L</td>
+      <td align="left">μPD70F3793</td>
+      <td align="left">V850ES/Jx3-L Starter Kit</td>
+    </tr>         
   </tbody>
 </table>
 
