@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Profile_Views-2.9K-brightgreen?style=flat" alt="Profile Views">
 </p>  
 
-<h2 align="left">Bare-Metal Projects Built from Scratch (No SDK)</h2>
+<h2 align="left">Bare-Metal Projects Built from Scratch (No vendor SDKs)</h2>
 
 <table width="100%">
   <thead>
